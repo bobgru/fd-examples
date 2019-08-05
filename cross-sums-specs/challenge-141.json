@@ -1,0 +1,61 @@
+{
+  "rows": [
+    {"x": 0, "y": 1, "length": 2, "sum": 13}
+  , {"x": 0, "y": 5, "length": 2, "sum": 17}
+
+  , {"x": 1, "y": 0, "length": 3, "sum":  8}
+  , {"x": 1, "y": 4, "length": 3, "sum": 13}
+
+  , {"x": 2, "y": 0, "length": 2, "sum":  9}
+  , {"x": 2, "y": 3, "length": 2, "sum":  7}
+  , {"x": 2, "y": 6, "length": 2, "sum":  5}
+
+  , {"x": 3, "y": 1, "length": 3, "sum": 11}
+  , {"x": 3, "y": 7, "length": 2, "sum": 14}
+
+  , {"x": 4, "y": 0, "length": 3, "sum": 24}
+  , {"x": 4, "y": 6, "length": 3, "sum": 14}
+
+  , {"x": 5, "y": 0, "length": 2, "sum":  7}
+  , {"x": 5, "y": 5, "length": 3, "sum": 19}
+
+  , {"x": 6, "y": 1, "length": 2, "sum": 12}
+  , {"x": 6, "y": 4, "length": 2, "sum": 10}
+  , {"x": 6, "y": 7, "length": 2, "sum":  5}
+
+  , {"x": 7, "y": 2, "length": 3, "sum": 17}
+  , {"x": 7, "y": 6, "length": 3, "sum":  8}
+
+  , {"x": 8, "y": 2, "length": 2, "sum":  5}
+  , {"x": 8, "y": 6, "length": 2, "sum": 14}
+  ],
+
+  "columns": [
+    {"x": 1, "y": 0, "length": 2, "sum": 12}
+  , {"x": 4, "y": 0, "length": 2, "sum": 10}
+
+  , {"x": 0, "y": 1, "length": 7, "sum": 37}
+
+  , {"x": 0, "y": 2, "length": 2, "sum":  5}
+  , {"x": 3, "y": 2, "length": 2, "sum": 13}
+  , {"x": 6, "y": 2, "length": 3, "sum": 18}
+
+  , {"x": 2, "y": 3, "length": 2, "sum":  8}
+  , {"x": 7, "y": 3, "length": 2, "sum":  4}
+
+  , {"x": 1, "y": 4, "length": 2, "sum": 10}
+  , {"x": 6, "y": 4, "length": 2, "sum":  7}
+
+  , {"x": 0, "y": 5, "length": 2, "sum":  9}
+  , {"x": 5, "y": 5, "length": 2, "sum": 12}
+
+  , {"x": 0, "y": 6, "length": 3, "sum": 13}
+  , {"x": 4, "y": 6, "length": 2, "sum": 14}
+  , {"x": 7, "y": 6, "length": 2, "sum":  9}
+
+  , {"x": 2, "y": 7, "length": 7, "sum": 38}
+
+  , {"x": 3, "y": 8, "length": 2, "sum":  7}
+  , {"x": 6, "y": 8, "length": 2, "sum":  6}
+  ]
+}
