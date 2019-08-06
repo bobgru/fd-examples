@@ -1,8 +1,8 @@
 {-# LANGUAGE GeneralizedNewtypeDeriving #-}
 {-# LANGUAGE RankNTypes #-}
 
-From David Overton, modified:
-https://overtond.blogspot.com/2008/07/pre.html
+-- From David Overton, modified:
+-- https://overtond.blogspot.com/2008/07/pre.html
 
 module FD (
     -- Types
